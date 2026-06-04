@@ -24,8 +24,12 @@ function Hero() {
           GitHub
         </a>
 
-        <a href="/Avinash_Resume.pdf" download>
-           Download Resume
+        <a
+          href="/Avinash_Resume.docx"
+          download
+          className="resume-btn"
+        >
+          Resume
         </a>
 
         <a
