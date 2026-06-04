@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Day 1 - Spring AI",
+    "date": "2026-06-04",
+    "content": "Integrated OpenAI using Spring AI."
+  },
+  {
+    "id": 2,
+    "title": "Day 2 - Redis Cache",
+    "date": "2026-06-05",
+    "content": "Learned Redis caching and TTL."
+  }
+]
