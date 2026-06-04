@@ -9,15 +9,14 @@ function Projects() {
         <div className="card">
           <h3>RomanTalk</h3>
           <p>
-            AI-powered SaaS built using Spring Boot,
-            React, PostgreSQL, Redis and OpenAI.
+            Spring Boot • React • Redis • PostgreSQL • OpenAI
           </p>
         </div>
 
         <div className="card">
           <h3>SmartResume Screener</h3>
           <p>
-            Resume analyzer using Spring AI and Gemini AI.
+            Spring AI • Gemini • Redis • Docker.
           </p>
         </div>
 
